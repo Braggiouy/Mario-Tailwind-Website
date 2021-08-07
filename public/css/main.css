@@ -17752,6 +17752,14 @@ video {
   background-image: linear-gradient(to top left, var(--tw-gradient-stops));
 }
 
+.bg-wave-pattern {
+  background-image: url(../img/wave-white.png);
+}
+
+.bg-pattern-white-dots {
+  background-image: url(../img/pattern-white-dots.png);
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -49004,6 +49012,14 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .sm\:bg-wave-pattern {
+    background-image: url(../img/wave-white.png);
+  }
+
+  .sm\:bg-pattern-white-dots {
+    background-image: url(../img/pattern-white-dots.png);
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -80229,6 +80245,14 @@ video {
 
   .md\:bg-gradient-to-tl {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
+  }
+
+  .md\:bg-wave-pattern {
+    background-image: url(../img/wave-white.png);
+  }
+
+  .md\:bg-pattern-white-dots {
+    background-image: url(../img/pattern-white-dots.png);
   }
 
   .md\:from-transparent {
@@ -111458,6 +111482,14 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .lg\:bg-wave-pattern {
+    background-image: url(../img/wave-white.png);
+  }
+
+  .lg\:bg-pattern-white-dots {
+    background-image: url(../img/pattern-white-dots.png);
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -142685,6 +142717,14 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .xl\:bg-wave-pattern {
+    background-image: url(../img/wave-white.png);
+  }
+
+  .xl\:bg-pattern-white-dots {
+    background-image: url(../img/pattern-white-dots.png);
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -173910,6 +173950,14 @@ video {
 
   .\32xl\:bg-gradient-to-tl {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
+  }
+
+  .\32xl\:bg-wave-pattern {
+    background-image: url(../img/wave-white.png);
+  }
+
+  .\32xl\:bg-pattern-white-dots {
+    background-image: url(../img/pattern-white-dots.png);
   }
 
   .\32xl\:from-transparent {
